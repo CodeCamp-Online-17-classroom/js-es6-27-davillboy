@@ -9,3 +9,4 @@ const names = [
   { firstName: 'Joe', lastName: 'Dunne' }
 ];
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
